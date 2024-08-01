@@ -22,7 +22,7 @@ export function ReactRauter() {
             <Link to="/about">About</Link>
             <Link to="/contact">Contact</Link>
 
-            {/* /* a 태그는 화면 새로고침을 강체하기 때문에 리액트 구조에 맞지 않음
+            {/* a 태그는 화면 새로고침을 강체하기 때문에 리액트 구조에 맞지 않음
             모든 상태가 초기화됨!!
              <a href="/home">Home</a>
             <a href="/about">About</a>
